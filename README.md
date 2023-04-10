@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Philosopher-G33k
-- 👀 I’m interested in Mobile App development (iOS/Android), Python, Golang and IOT
-- 🌱 I’m currently learning Golang and Microservices
-- 💞️ I’m looking to collaborate on iOS Frameworks and Golang libraries
+- 👀 I’m interested in Mobile App development (iOS/Android), Python, Rust and IOT
+- 🌱 I’m currently learning Rust and Flutter
+- 💞️ I’m looking to collaborate on iOS Frameworks and Rust libraries
 - 📫 Message me on GitHub to connect
 
 <!---
